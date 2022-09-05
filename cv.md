@@ -22,16 +22,16 @@ For the last few months I have been studying Front-end development on my own and
 ```
 function getMiddle(s){
 
- let word = s.length % 2 === 0
  let firstletter = s.charAt(s.length/2-1)
- let secondword = s.charAt(s.length/2)
+ let secondletter = s.charAt(s.length/2)
+ let word = s.length % 2 === 0
  
- return word===true ? firstletter.concat(secondword) : secondword
+ return word===true ? firstletter.concat(secondletter) : secondletter
 }
 ```
 
 ## Education
-**GoIT courses**. Introduction to programming, Fundamentals of JS algorithms, pseudocode, syntax, data types, operators, branches and loops, switch, destructuring, boolean values, command line interaction, functions, objects, callbacks, prototypes, classes. HTML/SCC/SASS
+**GoIT courses (in process...)**. Introduction to programming, Fundamentals of JS algorithms, pseudocode, syntax, data types, operators, branches and loops, switch, destructuring, boolean values, command line interaction, functions, objects, callbacks, prototypes, classes. HTML/SCC/SASS
 
 ## Experience
 small goit project using HTML/SASS/JS and responsive layout
@@ -39,3 +39,9 @@ small goit project using HTML/SASS/JS and responsive layout
 [https://github.com/AliakseiSavelyey/goit-1](https://github.com/AliakseiSavelyey/goit-1 "мини сайтик")
 
 [Web studio](https://aliakseisavelyey.github.io/goit-1/ "мини сайтик")
+
+## Languages
+* English - A2 (B1 in process…)
+* Russian - Native
+* Belarussian - Native
+* Ukrainian - Basic
