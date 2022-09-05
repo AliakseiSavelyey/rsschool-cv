@@ -29,16 +29,15 @@ function getMiddle(s){
  return word===true ? firstletter.concat(secondletter) : secondletter
 }
 ```
-
-## Education
-**GoIT courses (in process...)**. Introduction to programming, Fundamentals of JS algorithms, pseudocode, syntax, data types, operators, branches and loops, switch, destructuring, boolean values, command line interaction, functions, objects, callbacks, prototypes, classes. HTML/SCC/SASS
-
 ## Experience
 small goit project using HTML/SASS/JS and responsive layout
 
 [https://github.com/AliakseiSavelyey/goit-1](https://github.com/AliakseiSavelyey/goit-1 "мини сайтик")
 
 [Web studio](https://aliakseisavelyey.github.io/goit-1/ "мини сайтик")
+
+## Education
+**GoIT courses (in process...)**. Introduction to programming, Fundamentals of JS algorithms, pseudocode, syntax, data types, operators, branches and loops, switch, destructuring, boolean values, command line interaction, functions, objects, callbacks, prototypes, classes. HTML/SCC/SASS
 
 ## Languages
 * English - A2 (B1 in process…)
