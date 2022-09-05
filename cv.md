@@ -2,6 +2,7 @@
 
 ## Contacts
 * **GitHub:** [AliakseiSavelyey](https://github.com/AliakseiSavelyey "GitHub")
+* **Discord rs-school:** Alex Savelyey(@aliakseisavelyey) 
 * **Email:** mtptz21@gmail.com
 * **Phone:** +375291410707
 * **Telegram:** [Aliaksei litvin Savelyeu](https://t.me/Gidden "телеграмм")
@@ -32,7 +33,7 @@ function getMiddle(s){
 ## Experience
 small goit project using HTML/SASS/JS and responsive layout
 
-[https://github.com/AliakseiSavelyey/goit-1](https://github.com/AliakseiSavelyey/goit-1 "мини сайтик")
+[Web studio https://github.com/AliakseiSavelyey/goit-1](https://github.com/AliakseiSavelyey/goit-1 "мини сайтик")
 
 [Web studio](https://aliakseisavelyey.github.io/goit-1/ "мини сайтик")
 
