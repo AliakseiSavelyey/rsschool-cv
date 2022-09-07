@@ -41,7 +41,7 @@ small goit project using HTML/SASS/JS and responsive layout
 **GoIT courses (in process...)**. Introduction to programming, Fundamentals of JS algorithms, pseudocode, syntax, data types, operators, branches and loops, switch, destructuring, boolean values, command line interaction, functions, objects, callbacks, prototypes, classes. HTML/SCC/SASS
 
 ## Languages
-* English - A2 (B1 in process…)
+* English - A1 (A2 in process…)
 * Russian - Native
 * Belarussian - Native
 * Ukrainian - Basic
